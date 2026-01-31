@@ -1,0 +1,9 @@
+
+{
+  "name": "Da Strength Club Spin",
+  "description": "A high-performance spinning wheel app with secure Gmail OTP login, one-time spin limit, and automatic result reporting. Includes admin database logging and attractive custom email notifications.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
